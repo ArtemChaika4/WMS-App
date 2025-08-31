@@ -38,7 +38,7 @@ This project is a **desktop application for warehouse management** with an integ
 
 ![AppSchema](/images/admin.png)
 
-![AppSchema](/images/warehoseman.png)
+![AppSchema](/images/warehouseman.png)
 
 ![AppSchema](/images/operator.png)
 
