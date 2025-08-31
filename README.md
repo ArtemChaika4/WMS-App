@@ -44,15 +44,16 @@ This project is a **desktop application for warehouse management** with an integ
 
 ![AppSchema](/images/assistant_chat.png)
 
+![AppSchema](/images/assistant_request.png)
+
+![AppSchema](/images/assistant_chart.png)
+
 ![AppSchema](/images/analytic.png)
 
 ![AppSchema](/images/goods_add.png)
 
 ![AppSchema](/images/order_create.png)
 
-![AppSchema](/images/assistant_request.png)
-
-![AppSchema](/images/assistant_chart.png)
 
 ## Installation
 1. Clone the repository
